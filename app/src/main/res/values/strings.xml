@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Yara</string>
+    <string name="username_editText">Username</string>
+    <string name="password_editText">Password</string>
+    <string name="confirm_btn">Confirm</string>
+    <string name="cancel_btn">Cancel</string>
+    <string name="sign_up_if_new_user_textView">Sign up if new user</string>
+    <string name="login_page_textView">Login Page</string>
+</resources>
